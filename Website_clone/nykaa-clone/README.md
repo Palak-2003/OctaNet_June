@@ -1,2 +1,0 @@
-# nykaa-clone
-nykaa clone
